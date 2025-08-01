@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a dedicated third-year student in the Data Science Department with a solid foundation in cloud computing and DevOps practices. My academic pursuits have equipped me with the necessary skills to understand and implement various cloud solutions and DevOps methodologies effectively. I am eager to apply my knowledge to real-world projects and contribute to innovative solutions in the tech industry.
+I am a dedicated third-year student in the Data Science Department with a strong foundation in cloud computing, DevOps practices, and a growing focus on data engineering. My academic background and hands-on experience have equipped me with the skills to design, build, and maintain scalable data pipelines, as well as implement efficient cloud-based solutions. I am passionate about leveraging cloud and DevOps tools to streamline data workflows and deliver real-time, data-driven insights. Eager to apply my knowledge to impactful projects, I aim to contribute to innovative solutions in the tech and data industry.
+
 
 
 ## 🌐 Socials:
