@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am a dedicated third-year student in the Data Science Department with a strong foundation in cloud computing, DevOps practices, and a growing focus on data engineering. My academic background and hands-on experience have equipped me with the skills to design, build, and maintain scalable data pipelines, as well as implement efficient cloud-based solutions. I am passionate about leveraging cloud and DevOps tools to streamline data workflows and deliver real-time, data-driven insights. Eager to apply my knowledge to impactful projects, I aim to contribute to innovative solutions in the tech and data industry.
+
+I am a dedicated fourth-year student in the Data Science Department with a strong foundation in cloud computing, DevOps practices, and data engineering. My academic background and hands-on projects have equipped me with the ability to design, build, and maintain scalable data pipelines while also implementing robust, cloud-based infrastructure using DevOps tools and automation.
+
+I have practical experience with Docker, Kubernetes, AWS, Terraform, Jenkins, and Linux, alongside proficiency in Python, SQL, and ETL processes, enabling me to bridge the gap between data engineering and DevOps. I am passionate about leveraging these skills to streamline workflows, optimize cloud resources, and deliver reliable, data-driven solutions.
+
+Eager to apply my knowledge and continue learning, I aim to contribute to innovative projects that sit at the intersection of data and cloud engineering, helping organizations unlock the full value of their data.
 
 
 
