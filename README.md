@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 
 I am a dedicated fourth-year student in the Data Science Department with a strong foundation in cloud computing, DevOps practices, and data engineering. My academic background and hands-on projects have equipped me with the ability to design, build, and maintain scalable data pipelines while also implementing robust, cloud-based infrastructure using DevOps tools and automation.
 
